@@ -9,3 +9,9 @@ body {
   backround-color: white;
   border-radius: 15px;
   box-shadow: 0 4px 8px rqba(0,0,0,0,1);}
+.kartu-profil img{
+  width: 150px;
+  border-radius: 50%; /* Trik untuk membuat gambar persegi menjadi lingkaran sempurna */
+}
+.kartu-profil {
+  /*...(kode dari slide sebelumnya)...*/
